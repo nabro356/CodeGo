@@ -1,0 +1,175 @@
+{
+    "translation": {
+        "Enter Destination": "இலக்கை உள்ளிடவும்",
+        "Periyar Bus Stand": "பெரியார் பேருந்து நிலையம்",
+        "periyar bus stand": "பெரியார் பேருந்து நிலையம்",
+        "Kamaraj College Of Engineering": "காமராஜ் பொறியியல் கல்லூரி",
+        "kamaraj college of engineering": "காமராஜ் பொறியியல் கல்லூரி",
+        "Thirunagar": "திருநகர்",
+        "thirunagar": "திருநகர்",
+        "Thirumangalam": "திருமங்கலம்",
+        "thirumangalam": "திருமங்கலம்",
+        "Kappalur": "கப்பலூர்",
+        "kappalur": "கப்பலூர்",
+        "Palanganatham": "பழங்காநத்தம்",
+        "palanganatham": "பழங்காநத்தம்",
+        "Mandela Nagar": "மண்டேலா நகர்",
+        "mandela nagar": "மண்டேலா நகர்",
+        "Gorippalayam": "கோரிப்பாளையம்",
+        "gorippalayam": "கோரிப்பாளையம்",
+        "Villapuram": "வில்லாபுரம்",
+        "From": "ஏரும் இடமஂ",
+        "To": "இலக்கு",
+        "Time": "நேரம்",
+        "time": "நேரம்",
+        "Bus Type": "பேருந்து வகை",
+        "Filter": "பிலஂதரஂ",
+        "All": "அனைத்து",
+        "all": "அனைத்து",
+        "Normal": "சாதாரண",
+        "normal": "சாதாரண",
+        "Express": "வேகமான",
+        "express": "வேகமான",
+        "Deluxe": "டீலக்ஸ்",
+        "deluxe": "டீலக்ஸ்",
+        "Price": "விலை",
+        "price": "விலை",
+        "Bus Details": "பேருந்து விவரங்கள்",
+        "matuthavani": "மாட்டுத்தாவணி",
+        "Matuthavani": "மாட்டுத்தாவணி",
+        "Virudhunagar": "விருதுநகர்",
+        "virudhunagar": "விருதுநகர்",
+        "kallikudi": "கல்லிக்குடி",
+        "Kallikudi": "கல்லிக்குடி",
+        "sivarakottai": "சாவர்கோட்டை",
+        "Sivarakottai": "சாவர்கோட்டை",
+        "pandi kovil": "பாண்டி கோவில்",
+        "Pandi Kovil": "பாண்டி கோவில்",
+        "Search Location": "இருப்பிடத்தைத் தேடுங்கள்",
+        "Your Location": "உன்னுடைய இருப்பிடம்",
+        "Drop Location": "இடும் இடம்",
+        "Now": "இப்போது",
+        "Select Filter": "வடிப்பானை",
+        "Select Bus Type": "பஸ் வகையை",
+        "Stops": "நிருத்துஂ இடமஂ",
+        "Select Bus No.": "பேருந்து எண்",
+        "Settings": "அமைப்புகள்",
+        "language": "மொழி",
+        "Language": "மொழி",
+        "Switch": "மாறஂறு",
+        "switch": "மாறஂறு",
+        "madurai": "மதுரை",
+        "Madurai": "மதுரை",
+        "sattur": "சாத்தூர்",
+        "Sattur": "சாத்தூர்",
+        "nagarkovil": "நாகர்கோவில்",
+        "Nagarkovil": "நாகர்கோவில்",
+        "Keelanesaneri": "",
+
+        "Low Crowd": "குறைந்த கூட்டம",
+        "Moderate Crowd": "மிதமான கூட்டம்",
+        "High Crowd": "அதிக கூட்டம்",
+        "Bus Routes": "பேருந்து வழித்தடங்கள்",
+        "Brokedown Buses": "புரிகரிக்கப்படாத பஸ்ஸுகள்",
+
+        "Regular Buses": "வழிமுறை பஸ்ஸுகள்",
+
+        "No Data Found": "தரப்பு தகவல் கிடையாது",
+
+        "Items have been selected": "உருவங்கள் தேர்ந்தெடுக்கப்பட்டுள்ளன",
+        "Sunny": "சூரிய ஒளி",
+
+        "Moderate rain": "மிதமான மழை",
+
+        "Heavy rain": "கனமான மழை",
+
+        "Light rain": "சிறிய மழை",
+
+        "Misty": "குளோரமான",
+
+        "Overcast": "மேலே மேலே மேல்",
+
+        "Thirunelveli": "திருநெல்வேலி",
+
+        "thirunelveli": "திருநெல்வேலி",
+        "etturvattam toll": "எட்டுர்வாட்டம் டோல்",
+
+        "Etturvattam Toll": "எட்டுர்வாட்டம் டோல்",
+
+        "naduvapatti": "நடுவாபட்டி",
+
+        "Naduvapatti": "நடுவாபட்டி",
+
+        "pattampudur": "பட்டம்புதூர்",
+
+        "Pattampudur": "பட்டம்புதூர்",
+
+        "solakar": "சொலக்கார்",
+
+        "Solakar": "சொலக்கார்",
+
+        "virudhunagar medical college": "விருதுநகர் மெடிக்கல் கல்லூரி",
+
+        "Virudhunagar medical college": "விருதுநகர் மெடிக்கல் கல்லூரி",
+
+        "maravankulam": "மரவன்குளம்",
+
+        "Maravankulam": "மரவன்குளம்",
+
+        "tadagam": "தடகம்",
+
+        "Tadagam": "தடகம்",
+
+        "PRC bus depot": "பி.ஆர்.சி பஸ் டெபோ",
+
+        "prc bus depot": "பி.ஆர்.சி பஸ் டெபோ",
+
+        "vellakulam": "வெள்ளகுளம்",
+
+        "Vellakulam": "வெள்ளகுளம்",
+
+        "thoppore": "தொப்போர்",
+
+        "Thoppore": "தொப்போர்",
+
+        "soorakkulam": "சூரக்குளம்",
+
+        "Soorakkulam": "சூரக்குளம்",
+
+        "melakkottai": "மேலக்கோட்டை",
+
+        "genjampatti": "கெஞ்சம்பட்டி",
+
+        "vellur": "வெள்ளூர்",
+
+        "kunnathur": "குண்ணத்தூர்",
+
+        "thottiapatti": "தொட்டியாபட்டி",
+
+        "alampatti": "ஆழம்பட்டி",
+
+        "karisalpatti": "கரிசல்பட்டி",
+
+        "pajneri": "பஜ்னேரி",
+
+        "avaniyapuram": "ஆவணியாபுரம்",
+
+        "villapuram": "வில்லாபுரம்",
+
+        "amirtham cinema": "அமிர்தம் சினிமா",
+        "Nearby Bus Stop": "அருகிலுள்ள பேருந்து நிறுத்தம்",
+        "Add New Stop": "புதிய நிறுத்தத்தைச் சேர்க்கவும்",
+        "Latitude": "அட்சரேகை",
+        "Longitude": "தீர்க்கரேகை",
+        "Stop Name": "நிறுத்து பெயர்",
+        "City Name": "நகரத்தின் பெயர்",
+        "Palayam Kotai": "பாளையம் கோட்டை",
+        "Add Stop": "நிறுத்தத்தைச் சேர்க்கவும்",
+        "New Bus Stand": "புதிய பேருந்து நிலையம்",
+        "Tirunelveli": "திருநெல்வேலி",
+        "Patchy rain possible": "சீரற்ற மழை சாத்தியம்",
+        "Get Directions": "திசைகளைப் பெறுங்கள்",
+        "Add Current Stop": "தற்போதைய நிறுத்தத்தைச் சேர்க்கவும்",
+        "Partly cloudy": "ஓரளவு மேகம்"
+    }
+}
